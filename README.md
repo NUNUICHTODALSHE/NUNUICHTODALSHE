@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="banner-pm.svg" alt="Nikita Pirogov, Project Manager, Product" width="100%" />
+<img src="banner-pm2.svg" alt="Nikita Pirogov, Project Manager, Product Manager" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=C4623F&center=true&vCenter=true&size=20&width=640&height=40&lines=%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2;Product;AI-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B+%D0%B2+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5;%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" alt="Менеджер проектов, Product, AI-инструменты в работе, Санкт-Петербург" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=C4623F&center=true&vCenter=true&size=20&width=640&height=40&lines=Project+Manager;Product+Manager;AI-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B+%D0%B2+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5;%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" alt="Project Manager, Product Manager, AI-инструменты в работе, Санкт-Петербург" />
 
 <a href="https://t.me/lookatme3300"><img src="https://img.shields.io/badge/Telegram-@lookatme3300-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
@@ -10,7 +10,7 @@
 
 6+ лет веду сложные проекты, где нужно свести заказчика, подрядчиков, госорганы и технические комитеты: от городского строительства до нормотворчества с федеральным партнёром. Последний год строю личную систему на Claude Code и Obsidian: агент поверх базы знаний, который помнит контекст между сессиями.
 
-**Сейчас:** ищу роль менеджера проектов или продукта. AI-инструменты (Claude Code, Obsidian) для меня рабочий плюс: на них я построил личный [второй мозг](https://github.com/NUNUICHTODALSHE/my-second-brain).
+**Сейчас:** ищу роль Project Manager или Product Manager. AI-инструменты (Claude Code, Obsidian) для меня рабочий плюс: на них я построил личный [второй мозг](https://github.com/NUNUICHTODALSHE/my-second-brain).
 
 ---
 
