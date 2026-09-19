@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="banner.svg" alt="Nikita Pirogov, Project Manager, AI integration" width="100%" />
+<img src="banner.svg" alt="Nikita Pirogov, Project Manager, Product" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=C4623F&center=true&vCenter=true&size=20&width=640&height=40&lines=%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2;AI-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8;Claude+Code+%2B+Obsidian;%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" alt="Менеджер проектов, AI-интеграции, Claude Code + Obsidian, Санкт-Петербург" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=C4623F&center=true&vCenter=true&size=20&width=640&height=40&lines=%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2;Product;AI-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B+%D0%B2+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5;%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" alt="Менеджер проектов, Product, AI-инструменты в работе, Санкт-Петербург" />
 
 <a href="https://t.me/lookatme3300"><img src="https://img.shields.io/badge/Telegram-@lookatme3300-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
@@ -10,7 +10,7 @@
 
 6+ лет веду сложные проекты, где нужно свести заказчика, подрядчиков, госорганы и технические комитеты: от городского строительства до нормотворчества с федеральным партнёром. Последний год строю личную систему на Claude Code и Obsidian: агент поверх базы знаний, который помнит контекст между сессиями.
 
-**Сейчас:** строю [второй мозг](https://github.com/NUNUICHTODALSHE/my-second-brain) на Obsidian и Claude Code, ищу роль менеджера проектов в AI / IT.
+**Сейчас:** ищу роль менеджера проектов или продукта. AI-инструменты (Claude Code, Obsidian) для меня рабочий плюс: на них я построил личный [второй мозг](https://github.com/NUNUICHTODALSHE/my-second-brain).
 
 ---
 
@@ -20,7 +20,7 @@
 - **Энтемс (Санкт-Петербург), 2024–2025. Координатор проектов.** Субподрядчики, договоры, ТЗ, протоколы, документооборот.
 - **Гидрокор (Санкт-Петербург), 2025–наст. время. Project Manager.** Три параллельных трека с федеральным партнёром, технические комитеты, актуализация ГОСТ, испытательные лаборатории.
 
-## Что делаю с AI
+## AI в работе
 
 - **RAG-база на Obsidian + Claude Code.** Поиск по сотням связанных документов: ответы на вопросы обычным языком со ссылками на источники.
 - **LLM, RLM, SLM.** Каждый день работаю с LLM (Claude), слежу за reasoning-моделями (RLM) и компактными моделями (SLM) и понимаю, где какие уместны.
@@ -68,4 +68,4 @@ Telegram: [@lookatme3300](https://t.me/lookatme3300) · Saint Petersburg, Russia
 
 ## In English
 
-Project manager with 6+ years of experience in construction and infrastructure projects: customer / technical customer for city objects, project coordination in commercial development, and a multi-party standards initiative with a federal partner. For the past year I have been building a personal knowledge system on Claude Code and Obsidian: a RAG knowledge base, skills, hooks, subagents, cross-session memory, and meeting-minutes automation. Looking for a project manager role in AI / IT.
+Project manager with 6+ years of experience in construction and infrastructure projects: customer / technical customer for city objects, project coordination in commercial development, and a multi-party standards initiative with a federal partner. For the past year I have been building a personal knowledge system on Claude Code and Obsidian: a RAG knowledge base, skills, hooks, subagents, cross-session memory, and meeting-minutes automation. Looking for a project / product manager role; AI tooling is a strong plus.
