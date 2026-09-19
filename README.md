@@ -30,12 +30,23 @@
 
 ## Инструменты
 
+**Управление проектами:**
+![Bitrix24](https://img.shields.io/badge/Bitrix24-2FC6F6?style=for-the-badge&logoColor=white)
+![YouGile](https://img.shields.io/badge/YouGile-6C5CE7?style=for-the-badge&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+**AI и автоматизация:**
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![Bitrix24](https://img.shields.io/badge/Bitrix24-2FC6F6?style=for-the-badge&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Dataview](https://img.shields.io/badge/Dataview-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
