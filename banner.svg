@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Nikita Pirogov, Project Manager, AI integration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#151F3A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5">
+      <stop offset="0" stop-color="#D97757" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#D97757" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D97757"/>
+      <stop offset="1" stop-color="#D97757" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#94A3B8" fill-opacity="0.14"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="300" rx="18" fill="url(#dots)"/>
+  <rect width="1280" height="300" rx="18" fill="url(#glow)"/>
+
+  <!-- граф знаний -->
+  <g stroke="#94A3B8" stroke-opacity="0.35" stroke-width="1.2" fill="none">
+    <path d="M880 92 L985 150 L1090 78 L1190 132"/>
+    <path d="M985 150 L940 232 L1060 214 L1150 246"/>
+    <path d="M1090 78 L1060 214 L1190 132 L1150 246"/>
+    <path d="M880 92 L940 232"/>
+  </g>
+  <g fill="#0B1220" stroke="#D97757" stroke-width="2">
+    <circle cx="985" cy="150" r="11"/>
+    <circle cx="1090" cy="78" r="8"/>
+    <circle cx="1060" cy="214" r="9"/>
+  </g>
+  <g fill="#94A3B8" fill-opacity="0.85">
+    <circle cx="880" cy="92" r="5"/>
+    <circle cx="1190" cy="132" r="6"/>
+    <circle cx="940" cy="232" r="5"/>
+    <circle cx="1150" cy="246" r="5"/>
+  </g>
+  <circle cx="985" cy="150" r="4" fill="#D97757"/>
+
+  <!-- текст -->
+  <g font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="72" y="130" font-size="62" font-weight="700" fill="#F1F5F9" letter-spacing="-1">Nikita Pirogov</text>
+    <rect x="74" y="152" width="120" height="3" rx="1.5" fill="url(#line)"/>
+    <text x="72" y="196" font-size="26" font-weight="600" fill="#E8896A" letter-spacing="0.5">Project Manager  ·  AI integration</text>
+    <text x="72" y="236" font-size="17" fill="#94A3B8" letter-spacing="0.4">Claude Code · Obsidian · Saint Petersburg</text>
+  </g>
+</svg>
