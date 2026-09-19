@@ -1,4 +1,4 @@
-# Привет, я Никита 👋
+# Привет, я Никита
 
 **Менеджер проектов · AI-интеграции · Санкт-Петербург**
 
@@ -45,6 +45,9 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
+![Reminders](https://img.shields.io/badge/Reminders_%26_Calendar-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
