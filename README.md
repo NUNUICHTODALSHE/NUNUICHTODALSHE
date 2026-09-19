@@ -26,7 +26,7 @@
 - **Telegram-бот** как канал ввода в базу знаний.
 - **Python.** Учу: читаю и дорабатываю код в связке с Claude Code.
 
-Описание системы: [obsidian-pm-system](https://github.com/NUNUICHTODALSHE/obsidian-pm-system)
+Описание системы: [my-second-brain](https://github.com/NUNUICHTODALSHE/my-second-brain)
 
 ## Инструменты
 
